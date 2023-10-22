@@ -1,3 +1,5 @@
 This is demo file for demonstrating git stash
 
 We are making some changes to show git stash
+
+I am adding this line to raise a merge conflict when pushing the changes
